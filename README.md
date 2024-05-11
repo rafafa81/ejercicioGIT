@@ -1,2 +1,2 @@
 # ejercicioGIT
-Bootcamp test forkeo git 
+Bootcamp test
